@@ -1,0 +1,17 @@
+{
+    "theme_color": "#ffffff",
+    "background_color": "#de1c1f",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/index.html",
+    "name": "Qüinto Placebo",
+    "short_name": "Qüinto",
+    "description": "Qüinto Placebo, remeras aesthetic",
+    "icons": [
+        {
+            "src": "../img/marca.png",
+            "sizes": "300x95",
+            "type": "image/png"
+        }
+    ]
+}
