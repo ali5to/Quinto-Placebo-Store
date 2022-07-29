@@ -5,12 +5,12 @@
     "scope": "/",
     "start_url": "/index.html",
     "name": "Qüinto Placebo",
-    "short_name": "Qüinto",
+    "short_name": "Qüinto Placebo",
     "description": "Qüinto Placebo, remeras aesthetic",
     "icons": [
         {
-            "src": "img/icon-300.png",
-            "sizes": "300x300",
+            "src": "img/icon-286.png",
+            "sizes": "286x286",
             "type": "image/png"
         }
     ]
