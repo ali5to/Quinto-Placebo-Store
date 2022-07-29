@@ -1,4 +1,4 @@
-const CACHEQ = "version1";
+const CACHE = "version1";
 
 importScripts('https://storage.googleapis.com/workbox-cdn/releases/6.2.0/workbox-sw.js');
 
@@ -11,6 +11,6 @@ self.addEventListener("message", (event)=> {
 workbox.routing.registerRoute(
     new RegExp('/*'),
     new workbox.strategies.StaleWhileRevalidate({
-        cacheName: CACHEQ
+        cacheName: CACHE
     })
 )
