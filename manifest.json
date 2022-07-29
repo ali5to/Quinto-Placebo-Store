@@ -9,7 +9,7 @@
     "description": "Qüinto Placebo, remeras aesthetic",
     "icons": [
         {
-            "src": "../img/marca.png",
+            "src": "img/marca.png",
             "sizes": "300x95",
             "type": "image/png"
         }
